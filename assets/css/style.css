@@ -199,7 +199,7 @@ body.active { overflow: hidden; }
 .h4 { font-size: var(--fs-5); }
 
 .w-100 {
-  margin-top: 15px;
+  margin-top: 25px;
   width: 100%; 
 }
 
