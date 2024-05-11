@@ -198,7 +198,10 @@ body.active { overflow: hidden; }
 
 .h4 { font-size: var(--fs-5); }
 
-.w-100 { width: 100%; }
+.w-100 {
+  margin-top: 15px;
+  width: 100%; 
+}
 
 .btn {
   max-width: max-content;
