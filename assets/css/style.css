@@ -730,8 +730,11 @@ main { overflow-x: hidden; }
 .load-more {
   font-size: var(--fs-4);
   color: var(--raw-seinna);
-  text-decoration: underline;
+  text-decoration: none;
   margin-inline: auto;
+}
+.load-more a {
+  text-decoration: underline;
 }
 
 
